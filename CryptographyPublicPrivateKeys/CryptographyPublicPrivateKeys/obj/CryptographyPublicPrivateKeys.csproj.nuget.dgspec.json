@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oreng\\source\\repos\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys.csproj": {}
+    "C:\\Users\\oreng\\OneDrive\\Documents\\GitHub\\Cryptography\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oreng\\source\\repos\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys.csproj": {
+    "C:\\Users\\oreng\\OneDrive\\Documents\\GitHub\\Cryptography\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oreng\\source\\repos\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys.csproj",
+        "projectUniqueName": "C:\\Users\\oreng\\OneDrive\\Documents\\GitHub\\Cryptography\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys.csproj",
         "projectName": "CryptographyPublicPrivateKeys",
-        "projectPath": "C:\\Users\\oreng\\source\\repos\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys.csproj",
+        "projectPath": "C:\\Users\\oreng\\OneDrive\\Documents\\GitHub\\Cryptography\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys.csproj",
         "packagesPath": "C:\\Users\\oreng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oreng\\source\\repos\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys\\obj\\",
+        "outputPath": "C:\\Users\\oreng\\OneDrive\\Documents\\GitHub\\Cryptography\\CryptographyPublicPrivateKeys\\CryptographyPublicPrivateKeys\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
